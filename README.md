@@ -6,8 +6,6 @@
 ✉️ Tu peux me contacter ici : audrey.lamy92@gmail.com  
 🧋 Ou en savoir plus sur [LinkedIn](https://linkedin.com/in/audrey-lamy)
 
-![separator](https://raw.githubusercontent.com/AudreyLamy/assets/main/separators/flower-line.png)
-
 ## 🦋 Stack principale
 
 ![HTML](https://img.shields.io/badge/HTML5-EFD9CE?style=flat-square&logo=html5&logoColor=E34F26)
