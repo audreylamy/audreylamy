@@ -1,14 +1,14 @@
-## 👋 Salut moi c’est Audrey !
+## 🌸 Salut moi c’est Audrey !
 
 👩‍💻 Développeuse full-stack curieuse et toujours en train de bidouiller un truc  
-⚡ Je bosse surtout avec : React, React Native, Node.js, JavaScript & Prisma  
+☁️ Je bosse surtout avec : React, React Native, Node.js, JavaScript & Prisma  
 📱 En ce moment : je crée une app React Native pour SensCritique  
 ✉️ Tu peux me contacter ici : audrey.lamy92@gmail.com  
-🔗 Ou en savoir plus sur [LinkedIn](https://linkedin.com/in/audrey-lamy)
+🧋 Ou en savoir plus sur [LinkedIn](https://linkedin.com/in/audrey-lamy)
 
----
+![separator](https://raw.githubusercontent.com/AudreyLamy/assets/main/separators/flower-line.png)
 
-## 🔧 Stack principale
+## 🦋 Stack principale
 
 ![HTML](https://img.shields.io/badge/HTML5-EFD9CE?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-CDE6F5?style=flat-square&logo=css3&logoColor=1572B6)
@@ -22,20 +22,14 @@
 
 ---
 
-## 📊 Mes Stats GitHub
+## ✨ Mes Stats GitHub
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=audreylamy&show_icons=true&theme=ambient_gradient)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=audreylamy&hide_progress=false&theme=ambient_gradient)
 
 ---
 
-## 🏆 Trophées
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=audreylamy&theme=darkhub)](https://github.com/audreylamy)
-
----
-
-## ✨ Mes passions
+## 🍭 Mes passions
 
 - 🌍 Voyage
 - 📸 Photographie
