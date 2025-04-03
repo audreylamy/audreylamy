@@ -2,7 +2,7 @@
 
 👩‍💻 Développeuse full-stack curieuse et toujours en train de bidouiller un truc  
 ⚡ Je bosse surtout avec : React, React Native, Node.js, JavaScript & Prisma  
-📱 En ce moment : je crée une app React Native pour SensCritique
+📱 En ce moment : je crée une app React Native pour SensCritique  
 ✉️ Tu peux me contacter ici : audrey.lamy92@gmail.com  
 🔗 Ou en savoir plus sur [LinkedIn](https://linkedin.com/in/audrey-lamy)
 
