@@ -23,7 +23,7 @@
 
 </div>
 
-## 📊 Stats GitHub
+## 🌈 Stats GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=audreylamy&show_icons=true&bg_color=F7EAFB&icon_color=C37BA4&hide_border=true&text_color=8E6E95&title_color=F293C5&border_radius=20" width="48%" />
