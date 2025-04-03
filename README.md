@@ -1,7 +1,10 @@
-👨‍💻 Développeusee full-stack  
-🚀 Je travail sur les technos => React, Node.js, Javascript, React Native, Prisma  
-🌱 En ce moment : Création d'une app React Native pour SensCritique  
-📫 Contact : audrey.lamy92@gmail.com | [LinkedIn](https://linkedin.com/in/devalex)
+## 👋 Salut moi c’est Audrey !
+
+👩‍💻 Développeuse full-stack curieuse et toujours en train de bidouiller un truc  
+⚡ Je bosse surtout avec : React, React Native, Node.js, JavaScript & Prisma  
+📱 En ce moment : je crée une app React Native pour SensCritique
+✉️ Tu peux me contacter ici : audrey.lamy92@gmail.com  
+🔗 Ou en savoir plus sur [LinkedIn](https://linkedin.com/in/audrey-lamy)
 
 ---
 
