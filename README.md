@@ -17,15 +17,10 @@
 ![Node.js](https://img.shields.io/badge/Node.js-D9F5DD?style=flat-square&logo=nodedotjs&logoColor=339933)
 ![Prisma](https://img.shields.io/badge/Prisma-EAE6F8?style=flat-square&logo=prisma&logoColor=2D3748)
 
-
----
-
 ## ✨ Mes Stats GitHub
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=audreylamy&show_icons=true&theme=ambient_gradient)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=audreylamy&hide_progress=false&theme=ambient_gradient)
-
----
 
 ## 🍭 Mes passions
 
