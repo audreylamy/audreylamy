@@ -1,9 +1,9 @@
 # 🌸 Hi there, I’m Audrey!
 
 ![Profile views](https://komarev.com/ghpvc/?username=audreylamy&color=FEC8D8&style=flat)
-![Commits this year](https://img.shields.io/github/commit-activity/y/audreylamy/audreylamy?label=commits%20this%20year&color=FEC8D8&style=flat)
-![GitHub followers](https://img.shields.io/github/followers/audreylamy?label=Followers&style=flat&color=FEC8D8)
-![GitHub stars](https://img.shields.io/github/stars/audreylamy?label=Stars&style=flat&color=FEC8D8)
+![Followers](https://img.shields.io/github/followers/audreylamy?label=Followers&style=flat&color=FEC8D8)
+![Stars](https://img.shields.io/github/stars/audreylamy?label=Stars&style=flat&color=FEC8D8)
+![Code Everyday](https://img.shields.io/badge/Codes%20Everyday-%E2%9C%A8-FEC8D8?style=flat&logo=github)
 
 👩‍💻 Full-stack developer passionate about frontend and mobile apps  
 ☁️ Main stack: React, React Native, Node.js, JavaScript, Prisma  
@@ -13,18 +13,16 @@
 
 ## 🦋 Tech Stack
 
-<div align="center">
-
-![HTML](https://img.shields.io/badge/HTML5-EFD9CE?style=flat&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-CDE6F5?style=flat&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-FDF6C3?style=flat&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-DFEFFF?style=flat&logo=typescript&logoColor=3178C6)  
-![React](https://img.shields.io/badge/React-D7F7F7?style=flat&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React%20Native-E6F1F8?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-D9F5DD?style=flat&logo=nodedotjs&logoColor=339933)
-![Prisma](https://img.shields.io/badge/Prisma-EAE6F8?style=flat&logo=prisma&logoColor=2D3748)
-
-</div>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-FAF1F1?style=flat&logo=html5&logoColor=E44D26" />
+  <img src="https://img.shields.io/badge/CSS3-F3F7FC?style=flat&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/JavaScript-FFF8E7?style=flat&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-F5F8FF?style=flat&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/React-F0FBFC?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React%20Native-F4FAFB?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-EEF9F2?style=flat&logo=nodedotjs&logoColor=3C873A" />
+  <img src="https://img.shields.io/badge/Prisma-F8F3FF?style=flat&logo=prisma&logoColor=2D3748" />
+</p>
 
 ## 🌈 GitHub Stats
 
@@ -40,4 +38,4 @@
 - 👾 Playing games
 - 🍿 Watching movies
 
-_💫 This README was made with React, bubble tea, and a lo-fi playlist on loop_
+_💫 This README was made with React, bubble tea, and a lo-fi playlist on loop_ 
