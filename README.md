@@ -1,14 +1,14 @@
-# 🌸 Salut moi c’est Audrey !
+# 🌸 Hi there, I’m Audrey!
 
 ![Profile views](https://komarev.com/ghpvc/?username=audreylamy&color=FEC8D8&style=flat-square)
 
-👩‍💻 Développeuse full-stack passionnée par le front et les apps mobiles  
-☁️ Stack principale : React, React Native, Node.js, JavaScript, Prisma  
-📱 En ce moment : je crée une app React Native pour SensCritique  
-✉️ Contact : audrey.lamy92@gmail.com  
-🧋 [Retrouve-moi sur LinkedIn](https://linkedin.com/in/audrey-lamy)
+👩‍💻 Full-stack developer passionate about frontend and mobile apps  
+☁️ Main stack: React, React Native, Node.js, JavaScript, Prisma  
+📱 Currently building a React Native app for SensCritique  
+✉️ Reach me at: audrey.lamy92@gmail.com  
+🧋 [Find me on LinkedIn](https://linkedin.com/in/audrey-lamy)
 
-## 🦋 Stack Technique
+## 🦋 Tech Stack
 
 <div align="center">
 
@@ -23,18 +23,18 @@
 
 </div>
 
-## 🌈 Stats GitHub
+## 🌈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=audreylamy&show_icons=true&bg_color=F7EAFB&icon_color=C37BA4&hide_border=true&text_color=8E6E95&title_color=F293C5&border_radius=20" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=audreylamy&layout=compact&hide_progress=false&bg_color=F7EAFB&icon_color=C37BA4&text_color=8E6E95&title_color=F293C5&hide_border=true&border_radius=20" width="48%" />
 </p>
 
-## 🍭 Ce que j’aime en dehors du code
+## 🍭 Things I love beyond coding
 
-- ✈️ Voyager (le plus souvent possible)
-- 📸 Capturer des moments simples et jolis
-- 👾 Jouer à des jeux indés ou rétro
-- 🍿 Binge-watcher des films chelous (et en parler trop longtemps 😅)
+- ✈️ Traveling (as much as I can)
+- 📸 Capturing simple and beautiful moments
+- 👾 Playing games
+- 🍿 Watching movies
 
-_💫 Ce README est fait avec React, du bubble tea et un fond musical lo-fi_
+_💫 This README was made with React, bubble tea, and a lo-fi playlist on loop_
