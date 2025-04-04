@@ -1,3 +1,5 @@
+![http://url/to/img.png](https://github.com/audreylamy/audreylamy/blob/main/banner.png)
+
 # 🌸 Hi there, I’m Audrey!
 
 ![Profile views](https://komarev.com/ghpvc/?username=audreylamy&color=FEC8D8&style=flat)
