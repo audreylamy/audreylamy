@@ -1,4 +1,4 @@
-![http://url/to/img.png](https://github.com/audreylamy/audreylamy/blob/main/banner_audrey_l.png)
+![http://url/to/img.png](https://github.com/audreylamy/audreylamy/blob/main/banner.png)
 
 # 🌸 Hi there, I’m Audrey!
 
