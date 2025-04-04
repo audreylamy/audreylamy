@@ -29,7 +29,7 @@
 ## 🌈 GitHub Stats
 
 
-  <img src="https://github-readme-stats.vercel.app/api?username=audreylamy&show_icons=true&bg_color=ead7ec&icon_color=C37BA4&hide_border=true&text_color=ffffff&title_color=F293C5&border_radius=20" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=audreylamy&show_icons=true&bg_color=ead7ec&icon_color=b4f0f0&hide_border=true&text_color=ffffff&title_color=F293C5&border_radius=20" width="48%" />
 
 
 ## 🍭 Things I love beyond coding
