@@ -38,5 +38,6 @@
 - 📸 Capturing simple and beautiful moments
 - 👾 Playing games
 - 🍿 Watching movies
+- 🌶️❤️ In love with spicy food
 
 _💫 This README was made with React, bubble tea, and a lo-fi playlist on loop_ 
